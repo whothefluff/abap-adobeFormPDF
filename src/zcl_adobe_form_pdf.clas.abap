@@ -1,5 +1,5 @@
 "! <p class="shorttext synchronized" lang="EN">Generic AdobeForm PDF file</p>
-"! This is based in { @link CL_PDF }, but less horrible
+"! This is based on { @link CL_PDF }, but less horrible
 class zcl_adobe_form_pdf definition
                          public
                          create public
